@@ -6,8 +6,7 @@
 * **Day 2**: Intermediate Python
 * **Day 3**: Exploring Deep Neural Networks: A Beginner's Guide
 
-  * **Pre-session quiz:**
-  [https://forms.office.com/r/v3tGugagN3](https://forms.office.com/r/v3tGugagN3)
+  * **Pre-session Quiz Link <a href="https://forms.office.com/r/v3tGugagN3" target="_blank">https://forms.office.com/r/v3tGugagN3</a>:**
   
   * <img src="https://github.com/lsuhpchelp/loniscworkshop2024/blob/main/day3-4/QRCode%20for%20Pre-session%20Quiz.png" width="300" height="300" />
 
