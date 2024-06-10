@@ -10,3 +10,8 @@
 
 ** If you are not able to open the jupyter notebook from github to Colab, try pasting the link of the notebook from github to this website:
 https://nbviewer.jupyter.org/
+
+* **Pre-session Quiz Link:**
+    [https://forms.office.com/r/v3tGugagN3](https://forms.office.com/r/v3tGugagN3)
+  
+* <img src="https://github.com/lsuhpchelp/loniscworkshop2024/blob/main/day3-4/QRCode%20for%20Pre-session%20Quiz.png" width="300" height="300" />
